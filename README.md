@@ -1,6 +1,6 @@
 # JavaScript - Orientação a Objetos :zap:
 
-Introdução a orientação de objetos em JavaScript, compreensão dos métodos atributos, funções get / set e métodos construtores. O código tem por objetivo o cadastro de clientes em um banco, adicionando a ele o nome do cliente, cpf, rg e a agência. Agregados a esse cadastro, temos a tratativa de deposito, saque e transferência.
+Introdução a orientação de objetos em JavaScript, compreensão dos métodos atributos, funções get / set e métodos construtores. O código tem por objetivo o cadastro de clientes em um banco, adicionando a ele o nome do cliente, cpf, rg e a agência. Agregados a esse cadastro, temos a tratativa de deposito, saque e transferência. E, juntamente, temos a validação de login dos funcionários, herdando os dados para gerentes e diretores seus dados, bonificação e autenticação do sistema.
 
 Instale o [Visual Studio Code](https://code.visualstudio.com/download) e o [Node.js](https://nodejs.org/en/)
 
